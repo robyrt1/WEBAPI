@@ -1,3 +1,4 @@
 [
-    {"id":1,"name":"Robert","age":18,"power":"Ancient"}
+    {"id":1,"name":"Robert","age":18,"power":"Ancient"},
+    {"id":2,"name":"Beatriz","age":18,"power":"Ancient"}
 ]

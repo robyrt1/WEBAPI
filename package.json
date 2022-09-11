@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "test": "sh script.sh",
     "dev":"nodemon src/index.js",
     "start": "node src/index.js"
   },
